@@ -1,1 +1,3 @@
-¯\_(ツ)_/¯
+hi, im spai
+i hate lazerker
+uwu
