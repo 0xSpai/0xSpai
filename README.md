@@ -1,4 +1,4 @@
-```shell
+```console
 0xSpai:~$ whoami
 > Computer science & cybersecurity student based in Sweden with an interest in game development.
 
