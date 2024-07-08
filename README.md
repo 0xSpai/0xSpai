@@ -8,8 +8,8 @@
 > Tools & Platforms: Docker, Git, CI/CD, Roblox Studio
 
 0xSpai:~$ contact
-> - Email: [contact@spai.sh](mailto:contact@spai.sh)
-> - Twitter: [twitter.com/0xSpai](https://x.com/0xspai)
+> - Email: contact@spai.sh
+> - Twitter: twitter.com/0xSpai
 
 0xSpai:~$ quit
 > Thank you for your interest!
